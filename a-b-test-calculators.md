@@ -28,10 +28,10 @@ background: #404040;
 border: 0px solid #fff;
 }
 </style>
-
-<p>**UPDATE: This calculator has been deprecated now!**<p>
-
 </head>
+
+**UPDATE: This calculator has been deprecated now!**
+
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
