@@ -7,6 +7,3 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
-
-# A/B test related files
-2018-03-06-A-B-testing-significance-calculator.md
