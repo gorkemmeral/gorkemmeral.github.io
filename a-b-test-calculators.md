@@ -28,6 +28,9 @@ background: #404040;
 border: 0px solid #fff;
 }
 </style>
+
+<p>**UPDATE: This calculator has been deprecated now!**<p>
+
 </head>
 
 <!-- Calendly badge widget begin -->

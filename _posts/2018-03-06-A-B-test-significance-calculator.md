@@ -5,6 +5,7 @@ subtitle: Calculate statistical significance of your A/B-test
 image: /img/duration-graph.png
 tags: [A/B Test, Statistical Signicance Calculator, R Shiny, Product Analytics, Experiments, Hypothesis Testing, Growth Analytics, Marketing Analytics, Web Analytics, Conversion, Optimisation, p-value]
 ---
+**UPDATE: This calculator has been deprecated now!**
 
 Hypothesis testing (A/B testing, experiment, split testing, or bucket testing) is a fundamental part of product analytics. Product owners make decisions based on experiment results, rather than gut feelings. Once we have the A/B test set up correctly and run it long enough, we want to see whether the experiment has reached statistical significance.  
 
